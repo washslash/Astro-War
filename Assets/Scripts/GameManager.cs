@@ -16,6 +16,8 @@ public class GameManager : Singleton<GameManager>
     public Transform startPoint;
 
 
+//Animations Conf
+
 	[Header("Animation")]
 	public float duration = .2f;
 	public float delay = .05f;
